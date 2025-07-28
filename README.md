@@ -1,1 +1,1 @@
-<html> Hi this is Login Page</html>
+<html> Hi this is Login</html>
